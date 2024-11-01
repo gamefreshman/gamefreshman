@@ -11,6 +11,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gamefreshman)
 
+![Metrics](/github-metrics.svg)
 
 
 
