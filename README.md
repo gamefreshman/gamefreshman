@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text={HI!!!LOOK_HERE!!!}&fontSize=90&fontAlign=50&fontAlignY=30&desc={I_AM_LAWRENCE!}&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text=HI!!! LOOK_HERE!!!&fontSize=90&fontAlign=50&fontAlignY=30&desc=I_AM_LAWRENCE!&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" />
 </p>
 
 ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=MY+NAME+IS+HongHui+Zhang;Welcome+To+My+GitHub)
@@ -21,7 +21,7 @@
 </picture>
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=footer&text={HOPE_YOU_WELL}&fontSize=90&fontAlign=50&fontAlignY=70&desc={THE_END}&descAlign=50&descSize=30&descAlignY=40&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=footer&text=THE_END&fontSize=90&fontAlign=50&fontAlignY=70&desc=HOPE_YOU_WELL&descAlign=50&descSize=30&descAlignY=40&animation=twinkling" />
 </p>
 
 
