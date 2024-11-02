@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on RAG and networks
 - 📫 How to reach me : 2375775215@qq.com
 
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=MY+NAME+IS+HongHui+Zhang;Welcome+To+My+GitHub)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gamefreshman)
 
