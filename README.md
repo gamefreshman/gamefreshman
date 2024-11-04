@@ -5,9 +5,7 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=MY+NAME+IS+HongHui+Zhang;Welcome+To+My+GitHub)
 
-<p align="center">
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gamefreshman)
-</p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gamefreshman)
 
