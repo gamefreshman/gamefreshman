@@ -6,7 +6,7 @@ I am an undergraduate in **Computer Science and Technology at Sichuan University
 
 I am seeking **Fall 2027 PhD opportunities** and am open to MPhil pathways and research assistant collaborations aligned with my interests.
 
-[Email](mailto:zhanghonghun@stu.scu.edu.cn) · [Research paper](https://arxiv.org/abs/2606.03371) · [PIWM repository](https://github.com/gamefreshman/ProactiveIntentWorldModel)
+[CV (PDF)](https://github.com/gamefreshman/gamefreshman/blob/main/Honghui_Zhang_CV_September_2026.pdf) · [Email](mailto:zhanghonghun@stu.scu.edu.cn) · [Research paper](https://arxiv.org/abs/2606.03371) · [PIWM repository](https://github.com/gamefreshman/ProactiveIntentWorldModel)
 
 ## Research interests
 
